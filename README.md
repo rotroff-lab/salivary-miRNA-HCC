@@ -1,4 +1,4 @@
-# salivary-miRNA-HCC
+# Salivary miRNA signatures as non-invasive biomarkers of hepatocellular carcinoma
 
 ## Rotroff Lab
 
